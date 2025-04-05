@@ -4,4 +4,4 @@ Current Commands:
 Replay (proof of concept)
 
 Replay Command: 
-You give it the showdown replay link and it will output a formatted message of the two players that battled in the format player_1 vs player_2 (newline) replay_link
+You give it the showdown replay link and it will output a formatted message of the two players that battled in the format: player_1 vs player_2 (newline) replay_link
