@@ -38,7 +38,7 @@ class ReplayHandler(commands.Cog):
         coach1 = teams.get_coach(team1)
         coach2 = teams.get_coach(team2)
 
-        await ctx.respond(f"{coach1} vs {coach2} \n {url}")
+        await ctx.send(f"{coach1} vs {coach2} \n {url}")
 
 
 def setup(bot):  # this is called by Pycord to set up the cog
